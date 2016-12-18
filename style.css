@@ -1,0 +1,13 @@
+ul#menu li {
+    display:inline;
+}
+
+.profile.img {
+	 border-radius: 25px;
+}
+
+@media screen and (max-width: 613px){
+	.textarea {
+		width: 40px;
+	}
+}
